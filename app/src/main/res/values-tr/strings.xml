@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Etkinlik</string>
+    <string name="eventBaslik">Midnight Melodies Carnival</string>
+    <string name="eventDate">6-8 Aralık 2024, Amsterdam</string>
+    <string name="eventAciklama">Sahneye çıkarak izleyicileri DJ Kadir ile büyüleyici bir müzik yolculuğuna davet eden bu konser, yüksek enerjili ritimleri ve büyüleyici sesleriyle dinleyicilere unutulmaz anlar sunuyor. Elektronik müziğin büyüleyici dünyasına kaybolmak isteyenler için unutulmaz anlar sunan bu performans, kalabalığı büyüleyici bir deneyime dönüştürerek gecenin unutulmaz bir haline gelmesini sağlıyor ve herkesi müziğin büyüsüne çekerek geceyi baştan sona unutulmaz kılıyor</string>
+    <string name="eventnormalStatu">Normal</string>
+    <string name="normalPrice">2930 TL</string>
+    <string name="prePrice">3470 TL</string>
+    <string name="butonSatinAl">BİLET AL</string>
+    <string name="butonPaylas">PAYLAŞ</string>
+</resources>
