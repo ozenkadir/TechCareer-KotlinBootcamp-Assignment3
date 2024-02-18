@@ -7,9 +7,10 @@
 ## Some images
 
 ### Pixel 2
+
 ![eng-normalmode](https://github.com/ozenkadir/TechCareer-KotlinBootcamp-Odev3/assets/92018201/f77ef999-c659-4ce7-90a2-02d559c7a8d3)
 ![eng-nightmode](https://github.com/ozenkadir/TechCareer-KotlinBootcamp-Odev3/assets/92018201/ef5550ed-afb5-4d51-a200-004864cedaa9)
-![turkce-normalmod](https://github.com/ozenkadir/TechCareer-KotlinBootcamp-Odev3/assets/92018201/b691191c-d485-4e97-9590-2b6a1aec6fb7)
+![pixel2trtr](https://github.com/ozenkadir/TechCareer-KotlinBootcamp-Odev3/assets/92018201/94ebeed3-dfd2-48a4-83d6-61c569530674)
 ![tr2dark](https://github.com/ozenkadir/TechCareer-KotlinBootcamp-Odev3/assets/92018201/fcd76f25-3aa7-4bcb-a7e3-bf0cac0b9b30)
 
 ### Pixel 4
